@@ -1,0 +1,20 @@
+public class VintageComputer
+{
+
+/* create a class that defines attributes for 8 and 16 bit computers. Variables include Brand, Bit Count, Processor, Disk Drive.
+    More to possibly be added later. */ 
+    
+    //variables
+    private String brand;
+    private int bitCount;
+    private String processor;
+    private String diskDrive;
+    
+    //check for brand
+    
+    
+    //check for bits
+    public void checkBits(bits)
+      {
+      bits = bitCount
+      if bitCount = 16 

@@ -14,7 +14,21 @@ public class VintageComputer
     
     
     //check for bits
-    public void checkBits(bits)
+    public void checkBits(int bits)
       {
-      bits = bitCount
-      if bitCount = 16 
+      bitCount = bits;
+      if(bitCount = 16)
+        {
+        System.out.println("You have a 16-bit system. It could be a Commodore Amiga or an Atari ST.");
+        }
+       elif(bitCount = 8)
+        {
+        System.out.println("You have an 8-bit system. It could be an Atari 400/800/600, or an MSX, or a Commodore 64, or even a ZX Spectrum!");
+        }
+       else
+        {
+        System.out.println("That value is not within the scope of this application.");
+        }
+       }
+       
+ 
